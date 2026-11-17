@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": [
+    {
+      "email": "user@example.com",
+      "status": "queued",
+      "id": "mandrill-template-msg-1",
+      "reject_reason": null
+    }
+  ]
+}

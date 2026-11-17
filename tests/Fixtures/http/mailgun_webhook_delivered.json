@@ -1,0 +1,26 @@
+{
+  "signature": {
+    "timestamp": "1763390400",
+    "token": "recorded-token",
+    "signature": "recorded-signature"
+  },
+  "event-data": {
+    "id": "mg-event-1",
+    "event": "delivered",
+    "timestamp": 1763390400,
+    "recipient": "user@example.com",
+    "message": {
+      "headers": {
+        "message-id": "<20261117120000.1.ABCDEF@mg.example.com>"
+      }
+    },
+    "client-info": {
+      "ip": "203.0.113.10",
+      "user-agent": "Mailgun"
+    },
+    "delivery-status": {
+      "code": 250,
+      "message": "OK"
+    }
+  }
+}

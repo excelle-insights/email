@@ -1,0 +1,13 @@
+[
+  {
+    "event": "open",
+    "ts": 1763390460,
+    "ip": "203.0.113.20",
+    "user_agent": "Mozilla/5.0",
+    "msg": {
+      "message_id": "mandrill-msg-1",
+      "email": "user@example.com",
+      "ts": 1763390400
+    }
+  }
+]

@@ -1,0 +1,10 @@
+/vendor/
+/.phpunit.cache/
+/.phpstan/
+/coverage/
+/.idea/
+/.vscode/
+.DS_Store
+.env
+.php-cs-fixer.cache
+composer.phar

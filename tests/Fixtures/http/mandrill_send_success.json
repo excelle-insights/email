@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": [
+    {
+      "email": "user@example.com",
+      "status": "sent",
+      "id": "mandrill-msg-1",
+      "reject_reason": null
+    }
+  ]
+}

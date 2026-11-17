@@ -1,0 +1,10 @@
+{
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "id": "<20261117120000.1.ABCDEF@mg.example.com>",
+    "message": "Queued. Thank you."
+  }
+}

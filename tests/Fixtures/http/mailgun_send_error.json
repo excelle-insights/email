@@ -1,0 +1,9 @@
+{
+  "status": 401,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "message": "Forbidden"
+  }
+}
